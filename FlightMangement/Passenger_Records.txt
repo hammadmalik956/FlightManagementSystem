@@ -1,0 +1,31 @@
+
+225077
+Hammad
+Hameed
+Model Town
+61101
+21
+12
+21
+2323
+Lahore
+1
+Bought at time Thu Nov 25 16:22:16 PKT 2021
+10000
+m
+Islamabad
+128668
+hammad
+hameed
+model town
+61101
+1
+1
+21
+2121
+Lahore
+11
+Bought at time Thu Nov 25 16:23:33 PKT 2021
+10000
+m
+Islamabad
